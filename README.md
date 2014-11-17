@@ -3,4 +3,4 @@ Shaun-repo
 
 I'm a Rookie
 
-I love :woman: and :soccer:
+I love :woman:, :soccer: and :book:
